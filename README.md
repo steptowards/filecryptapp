@@ -1,5 +1,6 @@
 ### What is FileCrypt?
-FileCrypt is a simple to use Android application for encrypting files using [AES](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)
+FileCrypt is a simple to use, open-source Android application for encrypting files using [AES](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)  
+You can [download it from Google Play Store](http://example.com/) or build it using the source code.
 
 ### What can I use FileCrypt for?
 FileCrypt app can be used for encrypting / decrypting files from internal storage of your devices. It uses AES with 256 bit key length for encryption. You can also use FileCrypt to securely delete files using upto 3 overwrites.
